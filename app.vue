@@ -128,7 +128,8 @@ export default {
         'Java Script',
         'Data Analysis',
         'Python',
-        'SQL'
+        'SQL',
+        'Figma'
       ]
     };
   }
