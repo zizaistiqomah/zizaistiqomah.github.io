@@ -129,7 +129,8 @@ export default {
         'Data Analysis',
         'Python',
         'SQL',
-        'Figma'
+        'Figma',
+        'Java'
       ]
     };
   }
