@@ -111,6 +111,18 @@ export default {
           year: '2024',
           description: 'Ini adalah project sederhana yang dibuat menggunakan Java Script yang dapat menampilkan berapa banyak kita menekan di laman tersebut, dapat merubah warna dan menampilkan gambar yang dapat di geser horizontal.'
         },
+        {
+          title: 'Project 4',
+          work: 'UI/UX Aplikasi Kuliner Halal Pallate',
+          year: '2023',
+          description: 'Ini adalah project tampilan aplikasi kuliner yang mana di dalamnya terdapat fitur untuk memesan makanan, terdapat maps di dalamnya untuk melihat dimana saja restoran berada, terdapat fitur untuk mereview restoran dan makanan yang pernah kita kunjungi melalui platform aplikasi ini.'
+        },
+        {
+          title: 'Project 5',
+          work: 'UI/UX Aplikasi Transportasi umum',
+          year: '2023',
+          description: 'Ini adalah project tampilan aplikasi untuk memesan transportasi umum seperti ojek online, taxi online dan juga melihat jadwal dan rute bus.'
+        },
       ],
       
       education: [
@@ -119,6 +131,12 @@ export default {
           field: 'Teknologi Informasi',
           institution: 'Universitas Brawijaya',
           year: '2026'
+        },
+        {
+          degree: 'SMA',
+          field: 'Matematika Ilmu Pengetahuan Alam',
+          institution: 'MAN 1 Karanganom Klaten',
+          year: '2023'
         },
       ],
       skills: [
